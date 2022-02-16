@@ -1,3 +1,1 @@
-salutacions des de la terra!
-
-explicar us bàsic de l'editor vi
+canvis fets a la nova branca que he creat el dia 16 de febrer de 2022
