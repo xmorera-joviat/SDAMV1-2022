@@ -1,3 +1,8 @@
 Hola!!
 
 Soc el Jordi Marigot
+
+neovim:
+"a" per insertar text
+"esc > : > w" per guardar
+"esc > : q" per sorti
