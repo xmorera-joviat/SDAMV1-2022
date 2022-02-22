@@ -6,3 +6,8 @@ neovim:
 "a" per insertar text
 "esc > : > w" per guardar
 "esc > : q" per sorti
+
+
+Hola espinac!
+
+Soc l'Arseny
